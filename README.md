@@ -284,3 +284,4 @@ pytest tests/
 ## License
 
 MIT
+.
